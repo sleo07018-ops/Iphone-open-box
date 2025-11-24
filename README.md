@@ -1,4 +1,4 @@
-Vivere Imports — pacote sem imagens e com Instagram
+Vivere Imports
 
 Arquivos:
 - index.html
