@@ -4,6 +4,6 @@ Arquivos:
 - index.html
 - style.css
 - script.js
-- assets/logo.png (opcional, copiado da sua logo enviada)
+- assets/logo.png 
 
 
